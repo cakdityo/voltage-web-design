@@ -1,0 +1,20 @@
+h1 {
+    display: block !important;
+    margin-top: 200px;
+    text-align: center;
+    letter-spacing: 0.5em;
+}
+
+div {
+    text-align: center;
+    width: 325px;
+    margin: 50px auto;
+}
+
+div > p {
+    letter-spacing: 0.3em;
+}
+
+img {
+    width: 100%;
+}
